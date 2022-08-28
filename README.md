@@ -1,5 +1,5 @@
 # portfolio_link_website
-This is my first Portfolio using HTML,CSS,java script and Bootstap framework.
+This is my first Portfolio using HTML,CSS,JavaScript and Bootstap framework.
 Hope you like it.❤️
 
 i will upload more fronted projects follow and stay connnected.🏗️👦
