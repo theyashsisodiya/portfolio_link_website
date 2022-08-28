@@ -2,5 +2,5 @@
 This is my first Portfolio using HTML,CSS,JavaScript and Bootstap framework.
 Hope you like it.❤️
 
-i will upload more fronted projects follow and stay connnected.🏗️👦
+I will upload more fronted projects follow and stay connnected.🏗️👦
 Thank you.💝
